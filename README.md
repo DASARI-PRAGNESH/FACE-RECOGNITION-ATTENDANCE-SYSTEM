@@ -8,20 +8,20 @@ The Face Recognition Attendance System is an automated attendance management app
 Features
 
 Real-time face detection and recognition
-Automated attendance marking
-Secure and accurate identification
-Attendance records stored in CSV or database format
-Easy registration of new users
-Reduces proxy attendance and human errors
+,Automated attendance marking
+,Secure and accurate identification
+,Attendance records stored in CSV or database format
+,Easy registration of new users
+,Reduces proxy attendance and human errors
 
 Technologies Used
 
-Python
-OpenCV
-face_recognition Library
-NumPy
-Pandas
-CSV / SQLite Database
+,Python
+,OpenCV
+,face_recognition Library
+,NumPy
+,Pandas
+,CSV / SQLite Database
 
 Working Principle
 
@@ -37,14 +37,14 @@ Save attendance records for future reference.
 Applications
 
 Educational Institutions
-Corporate Offices
-Employee Attendance Tracking
-Smart Campus Systems
-Access Control Systems
-Future Enhancements
-Cloud-based attendance storage
-Multi-face recognition support
-Mobile application integration
-Masked face recognition
+,Corporate Offices
+,Employee Attendance Tracking
+,Smart Campus Systems
+,Access Control Systems
+,Future Enhancements
+,Cloud-based attendance storage
+,Multi-face recognition support
+,Mobile application integration
+,Masked face recognition
 Attendance analytics dashboard
 Integration with RFID and biometric systems
