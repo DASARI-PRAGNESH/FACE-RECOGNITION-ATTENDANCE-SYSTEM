@@ -16,7 +16,7 @@ Real-time face detection and recognition
 
 Technologies Used
 
-,Python
+Python
 ,OpenCV
 ,face_recognition Library
 ,NumPy
